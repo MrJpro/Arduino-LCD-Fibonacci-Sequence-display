@@ -7,3 +7,6 @@ Therefore, the code resets and loops through the fisrt 47 terms.
 ___________________________________
 
 This was done using an Arduino Uno Rev3 with a LCD.
+![scematic](https://user-images.githubusercontent.com/96927169/210183678-c52b3ead-e104-4d9c-b431-e46a85e28684.png)
+![IMG_20230101_121837255](https://user-images.githubusercontent.com/96927169/210183681-02c30871-6d09-4d7c-8256-a834a26a1ddb.jpg)
+![IMG_20230101_121854864](https://user-images.githubusercontent.com/96927169/210183683-5a3dbe1c-cff9-4e82-b916-8aec0f24df27.jpg)
